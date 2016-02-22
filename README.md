@@ -1,3 +1,5 @@
+This is my submission for the programming assignment 2 whose description is as below:
+
 ### Introduction
 
 This second programming assignment will require you to write an R
